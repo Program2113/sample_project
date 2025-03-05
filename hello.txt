@@ -1,2 +1,1 @@
-This is a hello message.fcking feature1
-this is feature 2. fixed a bug in main branch. but it seems there's a conflict with some other branch.
+This is a hello message.
