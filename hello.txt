@@ -1,2 +1,1 @@
 This is a hello message.
-Added feature 1 to the file. Oh no, i got to fix a bug in feature 2.
